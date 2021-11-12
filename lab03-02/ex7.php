@@ -4,6 +4,7 @@
     <title>Function Test</title>
 </head>
 
+    
 <body>
     <?php
     function convert_degree($degree, $type)
